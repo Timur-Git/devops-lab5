@@ -1,0 +1,7 @@
+pytest
+httpx
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+typing
